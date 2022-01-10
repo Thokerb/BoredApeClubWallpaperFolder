@@ -121,7 +121,7 @@ pip-selfcheck.json
 .idea/dynamic.xml
 .idea/uiDesigner.xml
 
-.png
+*.png
 
 # Gradle:
 .idea/gradle.xml
